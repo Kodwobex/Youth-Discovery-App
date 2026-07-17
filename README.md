@@ -102,6 +102,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is open source and available under the MIT License.
 
-## 🙌 Support
+## 🙏 Support
 
 For questions or suggestions, please open an issue on GitHub.
